@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ola
+namespace NoviClass
 {
     public class Class1
     {
